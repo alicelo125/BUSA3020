@@ -1,4 +1,4 @@
 {
     "python.pythonPath": "C:\\Users\\Alice\\anaconda3\\envs\\Data\\python.exe",
-    "jupyter.jupyterServerType": "remote"
+    "jupyter.jupyterServerType": "local"
 }
